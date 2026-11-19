@@ -63,6 +63,6 @@ L'applicazione è sviluppata interamente in **Vanilla Web Technologies** (senza 
 | Membro del Team | Ruolo Assegnato | Responsabilità Principali | Account GitHub |
 | :--- | :--- | :--- | :--- |
 | `[Alessandro Mattiato]` | **Coordinatore/organizzatore** | `[@lilMats]` |
-| `[Luca Leonardelli]` | **Risolutore tecnico/creativo** | `[@username2]` |
-| `[Matteo Nicolini]` | **Risolutore tecnico/creativo** | `[@username3]` |
-| `[Roberto Zanella]` | **Collaboratore flessibile** | `[@username4]` |
+| `[Luca Leonardelli]` | **Risolutore tecnico/creativo** | `[@LeonardelliLuca]` |
+| `[Matteo Nicolini]` | **Risolutore tecnico/creativo** | `[@matteonicolini2026]` |
+| `[Roberto Zanella]` | **Collaboratore flessibile** | `[@robertozanella1-gif]` |
