@@ -5,7 +5,7 @@
 
 ## 1. Nome Agenzia e Settore Scelto
 * **Agenzia:** Lumina (Gruppo 2 — 5INB)
-* **Progetto:** E-commerce **LUMINA** — Lampade smart minimaliste e illuminazione d'ambiente per il benessere visivo e lo studio (variante proposta rispetto ai settori base)[cite: 1].
+* **Progetto:** E-commerce **LUMINA** — Lampade smart minimaliste e illuminazione d'ambiente per il benessere visivo e lo studio (variante proposta rispetto ai settori base).
 
 ## 2. Assegnazione Ruoli
 * **Mattiato:** Coordinatore / Organizzatore
@@ -13,9 +13,9 @@
 * **Nicolini:** Risolutore tecnico / Creativo
 * **Zanella:** Collaboratore flessibile
 
-*(Tutti i componenti contribuiscono attivamente allo sviluppo del codice)
+*(Tutti i componenti contribuiscono attivamente allo sviluppo del codice)*
 
 ## 5. Azioni Completate Oggi
-* Creato il repository condiviso `lumina-ecommerce` su GitHub[cite: 1].
-* Aggiunti tutti i componenti del gruppo e la Prof.ssa Villani come collaboratori[cite: 1].
+* Creato il repository condiviso `lumina-ecommerce` su GitHub.
+* Aggiunti tutti i componenti del gruppo e la Prof.ssa Villani come collaboratori.
 * Caricato il `README.md` iniziale.
