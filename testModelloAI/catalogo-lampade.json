@@ -1,0 +1,272 @@
+[
+  {
+    "id": "desk-pro",
+    "nome": "Lumina Desk Pro",
+    "categoria": "lampada da scrivania",
+    "prezzo": 75,
+    "luce": "regolabile 2700K-6500K",
+    "luminositaLumen": 900,
+    "idealePer": "studio e scrivania",
+    "profiloSemantico": "Lavorare al computer, studiare sui libri, concentrarsi, leggere documenti, affaticamento visivo, luce fredda o neutra regolabile per ufficio e scrivania."
+  },
+  {
+    "id": "aura",
+    "nome": "Lumina Aura",
+    "categoria": "lampada da comodino",
+    "prezzo": 45,
+    "luce": "calda 2200K",
+    "luminositaLumen": 350,
+    "idealePer": "camera da letto e relax",
+    "profiloSemantico": "Rilassarsi la sera, atmosfera intima e soffusa, camera da letto, comodino, luce calda e accogliente per riposo e lettura prima di dormire."
+  },
+  {
+    "id": "arco-floor",
+    "nome": "Lumina Arco",
+    "categoria": "lampada da terra",
+    "prezzo": 189,
+    "luce": "calda 3000K dimmerabile",
+    "luminositaLumen": 1200,
+    "idealePer": "salotto e angolo lettura",
+    "profiloSemantico": "Illuminare il salotto con una lampada ad arco da terra, leggere sul divano, valorizzare un angolo della stanza con luce calda regolabile."
+  },
+  {
+    "id": "soffio",
+    "nome": "Lumina Soffio",
+    "categoria": "lampada da tavolo",
+    "prezzo": 59,
+    "luce": "calda 2700K",
+    "luminositaLumen": 500,
+    "idealePer": "atmosfera rilassante in soggiorno",
+    "profiloSemantico": "Creare una luce morbida e decorativa in soggiorno, atmosfera rilassante dopo cena, lampada da tavolo compatta e accogliente."
+  },
+  {
+    "id": "atelier",
+    "nome": "Lumina Atelier",
+    "categoria": "lampada da scrivania",
+    "prezzo": 99,
+    "luce": "neutra 4000K orientabile",
+    "luminositaLumen": 1100,
+    "idealePer": "disegno, bricolage e lavoro di precisione",
+    "profiloSemantico": "Disegnare, dipingere, cucire, fare lavori manuali o di precisione, illuminare bene il piano di lavoro con luce neutra e braccio orientabile."
+  },
+  {
+    "id": "notte",
+    "nome": "Lumina Notte",
+    "categoria": "luce notturna",
+    "prezzo": 19,
+    "luce": "calda 2000K",
+    "luminositaLumen": 80,
+    "idealePer": "corridoio e cameretta",
+    "profiloSemantico": "Luce notturna tenue per orientarsi al buio senza svegliare nessuno, corridoio, cameretta dei bambini, luce di cortesia a basso consumo."
+  },
+  {
+    "id": "arcobaleno",
+    "nome": "Lumina Arcobaleno",
+    "categoria": "lampada per bambini",
+    "prezzo": 39,
+    "luce": "RGB con luce bianca calda",
+    "luminositaLumen": 250,
+    "idealePer": "cameretta e comodino dei bambini",
+    "profiloSemantico": "Decorare una cameretta, luce colorata RGB, lampada divertente per bambini, luce soffusa per la buonanotte e comodino."
+  },
+  {
+    "id": "linea",
+    "nome": "Lumina Linea",
+    "categoria": "lampada da parete",
+    "prezzo": 69,
+    "luce": "neutra 3500K",
+    "luminositaLumen": 700,
+    "idealePer": "ingresso e corridoio",
+    "profiloSemantico": "Illuminare pareti, ingressi e corridoi senza occupare spazio a terra, luce architettonica moderna e uniforme per passaggi e scale."
+  },
+  {
+    "id": "specchio",
+    "nome": "Lumina Specchio",
+    "categoria": "lampada per specchio",
+    "prezzo": 54,
+    "luce": "neutra 5000K",
+    "luminositaLumen": 800,
+    "idealePer": "bagno e postazione trucco",
+    "profiloSemantico": "Truccarsi, radersi, prepararsi davanti allo specchio, luce chiara e uniforme senza ombre per bagno e zona beauty."
+  },
+  {
+    "id": "cucina",
+    "nome": "Lumina Cucina",
+    "categoria": "lampada a sospensione",
+    "prezzo": 115,
+    "luce": "neutra 4000K",
+    "luminositaLumen": 1400,
+    "idealePer": "isola e tavolo da cucina",
+    "profiloSemantico": "Illuminare il tavolo da pranzo o l'isola della cucina, preparare da mangiare, sospensione moderna con luce chiara e funzionale."
+  },
+  {
+    "id": "nord",
+    "nome": "Lumina Nord",
+    "categoria": "lampada a sospensione",
+    "prezzo": 149,
+    "luce": "calda 3000K",
+    "luminositaLumen": 1000,
+    "idealePer": "sala da pranzo in stile nordico",
+    "profiloSemantico": "Arredamento nordico e minimalista, lampada a sospensione in legno chiaro, luce calda sopra il tavolo da pranzo o nel soggiorno."
+  },
+  {
+    "id": "outdoor",
+    "nome": "Lumina Outdoor",
+    "categoria": "lampada da esterno",
+    "prezzo": 89,
+    "luce": "calda 3000K",
+    "luminositaLumen": 650,
+    "idealePer": "terrazzo e balcone",
+    "profiloSemantico": "Illuminare balcone, terrazzo, patio o veranda, lampada resistente agli agenti atmosferici, luce accogliente per stare all'aperto la sera."
+  },
+  {
+    "id": "giardino",
+    "nome": "Lumina Giardino",
+    "categoria": "lampada solare da giardino",
+    "prezzo": 34,
+    "luce": "calda 2700K",
+    "luminositaLumen": 180,
+    "idealePer": "sentieri e aiuole",
+    "profiloSemantico": "Illuminazione solare senza fili per vialetti, aiuole e giardino, ricarica durante il giorno, luce automatica all'imbrunire."
+  },
+  {
+    "id": "lettura",
+    "nome": "Lumina Lettura",
+    "categoria": "lampada da lettura",
+    "prezzo": 62,
+    "luce": "neutra 4000K regolabile",
+    "luminositaLumen": 600,
+    "idealePer": "lettura su poltrona o divano",
+    "profiloSemantico": "Leggere libri la sera senza affaticare gli occhi, lampada orientabile accanto a una poltrona o al divano, fascio di luce diretto."
+  },
+  {
+    "id": "clip",
+    "nome": "Lumina Clip",
+    "categoria": "lampada con morsetto",
+    "prezzo": 27,
+    "luce": "neutra 4000K",
+    "luminositaLumen": 320,
+    "idealePer": "scrivania piccola e letto",
+    "profiloSemantico": "Lampada salvaspazio con clip da fissare a mensola, testiera o bordo della scrivania, utile per leggere o lavorare in spazi piccoli."
+  },
+  {
+    "id": "minimal",
+    "nome": "Lumina Minimal",
+    "categoria": "lampada da tavolo",
+    "prezzo": 42,
+    "luce": "calda 2700K",
+    "luminositaLumen": 400,
+    "idealePer": "arredamento semplice e moderno",
+    "profiloSemantico": "Lampada dal design essenziale e moderno, piccola lampada da tavolo per ingresso, soggiorno o camera, stile minimalista."
+  },
+  {
+    "id": "industria",
+    "nome": "Lumina Industria",
+    "categoria": "lampada a sospensione",
+    "prezzo": 79,
+    "luce": "calda 2700K",
+    "luminositaLumen": 750,
+    "idealePer": "loft e cucina in stile industriale",
+    "profiloSemantico": "Design industriale in metallo scuro, arredamento loft, lampada vintage a sospensione per cucina, bar domestico o sala da pranzo."
+  },
+  {
+    "id": "arcolettura",
+    "nome": "Lumina Focus",
+    "categoria": "lampada da terra",
+    "prezzo": 129,
+    "luce": "neutra 4000K",
+    "luminositaLumen": 950,
+    "idealePer": "lettura e lavoro vicino al divano",
+    "profiloSemantico": "Lampada da terra con luce direzionabile per leggere, lavorare a maglia o illuminare il divano, senza dover installare una lampada a parete."
+  },
+  {
+    "id": "smart",
+    "nome": "Lumina Smart",
+    "categoria": "lampadina smart",
+    "prezzo": 24,
+    "luce": "RGB e bianco regolabile 2200K-6500K",
+    "luminositaLumen": 800,
+    "idealePer": "domotica e controllo da smartphone",
+    "profiloSemantico": "Lampadina intelligente controllabile da app e assistente vocale, cambiare colore e luminosità, domotica, programmazione e automazione della casa."
+  },
+  {
+    "id": "energia",
+    "nome": "Lumina Eco",
+    "categoria": "lampadina LED",
+    "prezzo": 12,
+    "luce": "calda 2700K",
+    "luminositaLumen": 806,
+    "idealePer": "risparmio energetico quotidiano",
+    "profiloSemantico": "Lampadina LED efficiente e conveniente per ridurre i consumi elettrici, sostituire una lampadina tradizionale, risparmio energetico in casa."
+  },
+  {
+    "id": "bagno",
+    "nome": "Lumina Aqua",
+    "categoria": "plafoniera da bagno",
+    "prezzo": 84,
+    "luce": "neutra 4000K",
+    "luminositaLumen": 1300,
+    "idealePer": "bagno e ambienti umidi",
+    "profiloSemantico": "Plafoniera resistente all'umidità per bagno, doccia e lavanderia, illuminazione uniforme e sicura per ambienti umidi."
+  },
+  {
+    "id": "soffitto",
+    "nome": "Lumina Plafon",
+    "categoria": "plafoniera",
+    "prezzo": 95,
+    "luce": "neutra 3500K dimmerabile",
+    "luminositaLumen": 1800,
+    "idealePer": "illuminazione generale di soggiorno e camera",
+    "profiloSemantico": "Illuminare una stanza intera con luce uniforme dal soffitto, plafoniera moderna per soggiorno, camera o studio, luminosità regolabile."
+  },
+  {
+    "id": "candela",
+    "nome": "Lumina Candela",
+    "categoria": "lampada decorativa",
+    "prezzo": 33,
+    "luce": "calda 1800K effetto candela",
+    "luminositaLumen": 120,
+    "idealePer": "cene romantiche e decorazione",
+    "profiloSemantico": "Ricreare l'atmosfera di una candela senza fiamma, cena romantica, luce molto calda e decorativa, rilassante e intima."
+  },
+  {
+    "id": "portatile",
+    "nome": "Lumina Go",
+    "categoria": "lampada portatile ricaricabile",
+    "prezzo": 49,
+    "luce": "calda 2700K dimmerabile",
+    "luminositaLumen": 300,
+    "idealePer": "campeggio e uso senza presa",
+    "profiloSemantico": "Lampada portatile senza fili con batteria ricaricabile, campeggio, giardino, emergenze e spostamento tra le stanze senza presa elettrica."
+  },
+  {
+    "id": "scrivania-mini",
+    "nome": "Lumina Mini Desk",
+    "categoria": "lampada da scrivania",
+    "prezzo": 31,
+    "luce": "neutra 4000K",
+    "luminositaLumen": 450,
+    "idealePer": "studio economico e spazi ridotti",
+    "profiloSemantico": "Lampada da scrivania economica e compatta per studiare, fare i compiti o lavorare in una stanza piccola."
+  },
+  {
+    "id": "cristallo",
+    "nome": "Lumina Cristallo",
+    "categoria": "lampadario",
+    "prezzo": 229,
+    "luce": "calda 3000K",
+    "luminositaLumen": 2200,
+    "idealePer": "sala da pranzo elegante",
+    "profiloSemantico": "Lampadario elegante decorativo per sala da pranzo, soggiorno e occasioni speciali, design raffinato e luce calda."
+  },
+  {
+    "id": "pavimento",
+    "nome": "Lumina Up",
+    "categoria": "lampada da terra",
+    "prezzo": 105,
+    "luce": "neutra 4000K orientabile verso il soffitto",
+    "luminositaLumen": 1400,
+    "idealePer": "illuminazione indiretta del soggiorno",
+    "profiloSemantico": "Luce indiretta riflessa sul soffitto per illuminare il soggiorno senza abbagliare, lampada da terra rivolta verso l'alto."
+  }
+]
